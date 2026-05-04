@@ -77,6 +77,9 @@ Includes:
  - Trade activity trends
  - Top traders leaderboard
 
+ - <img width="400" height="250" alt="Screenshot (1260)" src="https://github.com/user-attachments/assets/e576c57f-079e-4fa5-ade9-d5b4cae5ccce" />
+
+
 ### Tech Stack
 Python (Pandas, NumPy)
 Data Visualization (Matplotlib, Seaborn)
